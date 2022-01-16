@@ -1,0 +1,44 @@
+body{
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-between; */
+  padding: 10px;
+}
+.main{
+  background-color: rgb(31, 27, 27);
+  /* width; */
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+
+img{
+  height: 200px;
+  width: 180px;
+}
+
+h1{
+  color: aliceblue;
+}
+
+a{
+  color: aliceblue;
+}
+
+.anchor{
+  justify-content: space-evenly;
+  
+}
+
+anchor1{
+  padding: 20px;
+}
